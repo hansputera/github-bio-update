@@ -1,0 +1,19 @@
+{
+  "name": "github-utd",
+  "version": "0.0.1",
+  "description": "Simple App.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "@octokit/rest": "^18.0.5",
+    "moment": "^2.27.0"
+  },
+  "author": "Hanif",
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
